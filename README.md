@@ -1,4 +1,4 @@
-![Screenshot of BlogCreator](public/logo192.png)
+![Screenshot of BlogCreator](public/logo42.png)
 ## Create and modify articles for BigBrain Therapy blog
 
 ### `Technologies `
