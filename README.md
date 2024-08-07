@@ -1,6 +1,8 @@
 # BlogCreator
 ## Create and modify articles for BigBrain Therapy blog
 
+### `Technologies `
+
 1.	React.js - Building the user interface and managing the application’s state.
 2.	React Router - Handling navigation and routing between different pages of the application.
 3.	Tailwind CSS - Providing utility-first CSS framework for styling the application.
