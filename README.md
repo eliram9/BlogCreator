@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# BlogCreator - Create and modify articles for BigBrain Therapy blog
 
 1.	React.js - Building the user interface and managing the application’s state.
 2.	React Router - Handling navigation and routing between different pages of the application.
