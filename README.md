@@ -1,5 +1,5 @@
 ![Screenshot of BlogCreator](public/logo192.png)
-## Create and modify articles for BigBrain Therapy blog
+## Create and modify articles for [BigBrain Therapy](https://www.bigbraintherapy.com/) blog page.
 
 ### `Technologies `
 
